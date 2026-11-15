@@ -1,6 +1,6 @@
 (() => {
     const startDate = Date.UTC(2022, 0, 1);
-    const sentence = 'Since 2022, our Bhojana Shala has provided free meals every day to thousands of people every day';
+    const sentence = 'Since 2022, our Bhojana Shala has served free meals to thousands of people';
 
     function updateMealMilestone() {
         const milestone = document.querySelector('#impact .stats article');
